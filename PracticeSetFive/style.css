@@ -1,0 +1,10 @@
+div{
+    height: 100px;
+    width: 100px;
+    color: aliceblue;
+    background-image: url("kalpna.jpg");
+    background-size: cover;
+    position:fixed;
+    right: 0;
+}
+

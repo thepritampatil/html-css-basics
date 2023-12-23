@@ -1,0 +1,27 @@
+* {
+    padding :0;
+    margin:0;
+    color: white;
+ }
+ #navbar{
+     height: 60px;
+     background-color: #0f1111;
+ 
+ }
+ button{
+     color: white;
+     background-color: gold;
+     border-radius: 2px;
+ }
+ #logo{
+     color: gold;
+     margin-right: 100px;
+    font-weight: bolder;
+    font-size: 40px;
+ }
+ a{
+     margin-right: 100px;
+     font-size: 25px;
+     font-weight: bold;
+     text-decoration: none;
+ }

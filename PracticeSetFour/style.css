@@ -1,0 +1,49 @@
+* {
+    color:black;
+ }
+ #navbar{
+     height: 60px;
+     background-color: #0f1111;
+ 
+ }
+ button{
+     color: white;
+     background-color: gold;
+     border-radius: 2px;
+ }
+ #logo{
+     color: gold;
+     margin-right: 100px;
+    font-weight: bolder;
+    font-size: 40px;
+ }
+ a{
+    color: white;
+     margin-right: 60px;  
+     font-size: 20px;
+     font-weight: bold;
+     text-decoration: none;
+ }
+ #Content{
+    height: 1000px;
+ }
+
+ .ContentBox{
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    border:solid;
+   
+    margin-right: 10px;
+    display:inline;
+   
+
+    
+   
+
+ }
+ footer{
+    color: white;
+    background-color: rgba(0, 0, 0, 0.8);
+    text-align: center;
+ }
